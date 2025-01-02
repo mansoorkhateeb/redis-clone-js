@@ -101,4 +101,4 @@ Feel free to submit issues and pull requests to improve the implementation.
 
 ## Acknowledgments
 
-This project is a simplified implementation of Redis for learning purposes and is not intended for production use.# redis-clone-js
+This project is a simplified implementation of Redis for learning purposes and is not intended for production use.
